@@ -27,14 +27,14 @@ function Header() {
   return (
     <header className="sticky top-0 z-50 bg-white flex justify-center items-center p-10 shadow-sm">
       <div className="flex flex-col items-center space-y-5">
-        <div className="flex space-x-2 items-center">
+        <div className="flex space-x-2 items-center ">
           <Image
-            src="https://links.papareact.com/jne"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzB0YsJzD6fKYgHJtr0-gdwERTgEkWzWBABg&usqp=CAU"
             alt="logo"
             height={10}
             width={50}
           />
-          <p className="text-blue-400">Welcome to the Meta Messenger</p>
+          <p className="text-blue-400 border-gray-300">Chatify</p>
         </div>
         <Link
           href="/auth/signin"
