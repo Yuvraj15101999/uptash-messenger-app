@@ -10,7 +10,7 @@ function Header() {
         <div className="flex space-x-2">
           <Image
             className="rounded-full mx-2 object-contain"
-            src="https://links.papareact.com/jne"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOH2aZnIHWjMQj2lQUOWIL2f4Hljgab0ecZQ&usqp=CAU"
             alt="profile picture"
             height={10}
             width={50}
@@ -29,7 +29,7 @@ function Header() {
       <div className="flex flex-col items-center space-y-5">
         <div className="flex space-x-2 items-center ">
           <Image
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzB0YsJzD6fKYgHJtr0-gdwERTgEkWzWBABg&usqp=CAU"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOH2aZnIHWjMQj2lQUOWIL2f4Hljgab0ecZQ&usqp=CAU"
             alt="logo"
             height={10}
             width={50}
